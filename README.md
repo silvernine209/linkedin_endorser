@@ -1,4 +1,4 @@
-# Automatic LinkedIn SKills Endorser
+# Automatic LinkedIn Skills Endorser
 I built this notebook so that you don't have to spend your precious time to endorse people's skills.
 
 ## Project Intro/Objective
